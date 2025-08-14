@@ -1,4 +1,5 @@
 NOTE: YOU NEED A WEBCAM FOR THIS TO WORK
+Make sure to download the python project folder
 
 For this to run on Visual Studios Code, open your terminal inside VS code, then enter these commands
 1. pip install opencv-python
